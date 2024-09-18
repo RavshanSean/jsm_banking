@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   title: "PinkOceanBlue",
   description: "PinkOceanBlue: A fresh, reimagined way to experience banking—no outdated traditions, just smart, intuitive solutions for today's world.",
   icons: {
-    icon: '/icons/logo.svg'
+    icon: '/icons/logo2.svg'
   }
 };
 

@@ -14,11 +14,11 @@ const Sidebar = ({ user }: SiderbarProps) => {
        <nav className='flex flex-col gap-4'>
           <Link href='/' className='mb-12 cursor-pointer flex items-center gap-2'>
             <Image 
-               src='/icons/logo.svg'
+               src='/icons/logo2.svg'
                width={34}
                height={34}
                alt='Horizon logo'
-               className='size-[44px] max-xl:size-24'
+               className='size-[54px] max-xl:size-34'
             />
             <h1 className='sidebar-logo'>PinkOceanBlue</h1>
           </Link>
