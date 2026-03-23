@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Horizon is a comprehensive financial management ecosystem designed to bridge the gap between multiple isolated bank accounts and actionable financial insights. Instead of logging into five different apps to see your net worth, Horizon centralizes your entire financial life into a single, secure dashboard.
 
 ## Getting Started
 
